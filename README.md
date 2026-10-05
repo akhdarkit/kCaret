@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/logo.svg" width="72" alt="kCaret logo"></p>
+<p align="center"><img src="logo.svg" width="72" alt="kCaret logo"></p>
 
 <h1 align="center">kCaret</h1>
 
@@ -6,7 +6,7 @@
 real A4 sheets with margins and page numbers, Arabic and English, tables, images, handwriting,<br>
 watermarks, page backgrounds, print and PDF. One JavaScript file, no framework.</p>
 
-<p align="center"><img src="docs/preview-en.png" alt="kCaret editing an A4 page on graph paper" width="820"></p>
+<p align="center"><img src="preview-en.png" alt="kCaret editing an A4 page on graph paper" width="820"></p>
 
 ## Features
 
