@@ -46,8 +46,6 @@ kCaret needs **Tailwind CSS v2** utility classes for its toolbar and panels. A c
 </script>
 ```
 
-Open [`demo/index.html`](demo/index.html) in a browser to try it (add `?lang=ar` for Arabic). No server or build step is needed.
-
 The font list offers Google Fonts (Amiri, Cairo, Tajawal, Caveat…). Load them as in the demo's `<head>` to use them; otherwise the browser falls back to a similar font.
 
 ## Options
